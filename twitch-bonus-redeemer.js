@@ -7,7 +7,7 @@ let inclusiveJitterDiff = maxJitterMs - minJitterMs + 1;
 // Check to see if the button is back after `intervalSecs` number of seconds passes
 function checkButton() {
 	// Array with either 0 elements if the button isn't back, or 1 if it is back
-	let pointsButton = document.getElementsByClassName("tw-button tw-button--success tw-interactive");
+	let pointsButton = document.getElementsByClassName("tw-button tw-button--success");
 
 	// If the button is back
 	if (pointsButton.length > 0) {
