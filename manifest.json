@@ -1,6 +1,6 @@
 {
 	"name": "Twitch Bonus AutoRedeemer",
-	"version": "1.0.1",
+	"version": "1.0.2",
 	"description": "Redeems the little green box of bonus channel points automatically so you don't have to :)",
 	"content_scripts": [
 		{
